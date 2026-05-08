@@ -38,7 +38,7 @@ Explore the initial findings interactively here → **[View Dashboard](<https://
 └── app/                # Streamlit web application
 
 ## 📦 Dataset
-[Sephora Products and Skincare Reviews]([https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews](https://www.kaggle.Xcom/datasets/nadyinky/sephora-products-and-skincare-reviews)) — Kaggle
+[Sephora Products and Skincare Reviews]([<https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews>]) — Kaggle
 - 8,000+ products with ingredients, price, brand, and ratings
 - 1M+ customer reviews
 
