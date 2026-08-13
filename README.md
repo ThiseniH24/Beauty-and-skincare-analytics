@@ -14,7 +14,7 @@ product quality — ingredients, price, brand, or something else entirely.
 | Phase | Description | Status |
 |-------|-------------|--------|
 | EDA & Visualisation | Ingredient trends, price vs rating, brand analysis | ✅ Done (Tableau) |
-| Python EDA | Reproducing and extending findings in Python | 🚧 In progress |
+| Python EDA | Reproducing and extending findings in Python | ✅ Done (Tableau) |
 | Sentiment Analysis | NLP classifier on customer reviews | 🔜 Coming soon |
 | Recommender System | Content-based product recommendations | 🔜 Coming soon |
 | Streamlit App | Interactive web app deployment | 🔜 Coming soon |
